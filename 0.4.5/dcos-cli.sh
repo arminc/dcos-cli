@@ -1,8 +1,6 @@
-#!/bin/bash
+#!/bin/sh
 
 mkdir -p /.dcos
-
-#export PATH=$PATH:/dcos/bin
 
 export DCOS_CONFIG=/.dcos/dcos.toml
 
