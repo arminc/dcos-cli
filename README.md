@@ -3,7 +3,7 @@
 For more info about the DCOS cli https://dcos.io/docs/1.7/usage/cli/
 
 ##Building
-docker build -t dcos-cli .
+`docker build -t dcos-cli .`
 
 ##Running
 ```bash
